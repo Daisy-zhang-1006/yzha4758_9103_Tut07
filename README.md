@@ -8,4 +8,5 @@ This is my first local change to the repo!
 
 ** Bold text**
 
-![An image of a cat](https://placekitten.com/200/300)
+![An image of a cat](https://placekitten.com/200/300
+Links to an external site.)
