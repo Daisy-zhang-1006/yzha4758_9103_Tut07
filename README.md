@@ -11,10 +11,10 @@ I have been inspired by the “double exposure techniques in the film “Blade R
 ## Part 2: Coding Technique Exploration
 To achieve the image superposition techniques, I choose the tint( )  and image ( )  functions in p5.js. Through the setting of the transparent level of the second picture and cover it on the first picture can simulate the “double exposure”style like the film present. This method is easily to manipulate, which is the content that we learned in the lesson.  It is suitable for beginners to express the combination between the images and indicate the contrast and sense of memory visual effect. Here are the image that used this code presented.
 
-**Example Image:**
+***Example Image:***
 ![p5 Image Blend](https://codepen.io/ilithya/full/GRobZRq)
 
-**Example Code Link:**
+***Example Code Link:***
 [Clike to see the comprehensive example code](https://p5js.org/examples/imported-media-image-transparency/)
 
 
